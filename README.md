@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nathan Pascale</h1>
 <h3 align="center">A passionate Irish full stack developer</h3>
 
-- 🔭 I’m currently working on **Websites regarding ECommerce and Content**
+- 🔭 I’m currently working on Websites regarding ECommerce and Content
 
 - 🌱 I’m currently learning **in DCU College for Computer Science**
 
