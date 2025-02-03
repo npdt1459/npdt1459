@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan Pascale</h1>
+<h1 align="center">Hi there! I'm Nathan Pascale</h1>
 <h3 align="center">A passionate Irish full stack developer</h3>
 
 - 🔭 I’m currently working on **Websites regarding ECommerce and Content**
