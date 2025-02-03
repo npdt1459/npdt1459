@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Nathan Pascale</h1>
 <h3 align="center">A passionate Irish full stack developer</h3>
 
-- 🔭 I’m currently working on Websites regarding ECommerce and Content
+- 🔭 I’m currently working on websites regarding ECommerce and Content
 
-- 🌱 I’m currently learning **in DCU College for Computer Science**
+- 🌱 I’m currently learning in DCU College for Computer Science
 
-- 📫 How to reach me **npdt1459@gmail.com**
+- 📫 How to reach me: **npdt1459@gmail.com**
 
 - 📄 Know about my experiences using [my CV](https://docs.google.com/document/d/e/2PACX-1vS7GJVQgtQnO-oSgrjwwItnh-xfG7KcdZw3JZPQNDU-yC7SPdeszpVgPZG0mOSsHdpZK_DcvObmloEk/pub)
 
