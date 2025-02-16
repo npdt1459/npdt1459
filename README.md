@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **npdt1459@gmail.com**
 
-- 📄 Know about my experiences using [my CV](https://github.com/npdt1459/info/raw/main/NP%20CV.pdf)
+- 📄 Know about my experiences using [My CV](https://github.com/npdt1459/info/raw/main/NP%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
