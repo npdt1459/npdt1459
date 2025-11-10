@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning in DCU College for Computer Science
 
-- 📫 How to reach me: **npdt1459@gmail.com**
+- 📫 How to reach me: **nathanpascale2005@gmail.com**
 
 - 📄 Know about my experiences using [My CV](https://github.com/npdt1459/info/raw/main/NP%20CV.pdf)
 
